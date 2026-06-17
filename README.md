@@ -15,12 +15,10 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Computación** en Rancagua, Chile.
-- 💻 Me muevo principalmente en **desarrollo frontend y móvil** con TypeScript.
-- 🦀 Curioseando con **Rust** para apps de escritorio (Tauri).
+- 🎓 Estudiante de **Ingeniería en Computación** en Santiago, Chile.
 - 🐧 Usuario de **Linux** — corro **Arch Linux con Hyprland** como daily driver.
 - 🌱 Aprendiendo continuamente y construyendo proyectos para practicar.
-- ⚡ Filosofía: la lógica vive en el backend, el cliente solo muestra y consume.
+- ⚡ Filosofía: 
 
 ---
 
