@@ -18,7 +18,7 @@
 - 🎓 Estudiante de **Ingeniería en Computación** en Santiago, Chile.
 - 🐧 Usuario de **Linux** — uso **Arch Linux con Hyprland** como daily driver.
 - 🌱 Aprendiendo continuamente y construyendo proyectos para practicar.
-- ⚡ Filosofía: la lógica vive en el backend, el cliente solo muestra y consume.
+- ⚡ Filosofía: la sencillez es la máxima sofisticación.
 
 ---
 
