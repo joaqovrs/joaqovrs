@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joaqovrs">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Computer+Engineering+Student;Frontend+%26+Mobile+Developer;React+%2F+React+Native+%2F+Tauri;Arch+Linux+%2B+Hyprland+enjoyer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Computer+Science+Engineer;Arch+Linux+%2B+Hyprland+enjoyer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,10 +15,12 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Computación** en Santiago, Chile.
+- 🎓 Estudiante de **Ingeniería en Computación** en Rancagua, Chile.
+- 💻 Me muevo principalmente en **desarrollo frontend y móvil** con TypeScript.
+- 🦀 Curioseando con **Rust** para apps de escritorio (Tauri).
 - 🐧 Usuario de **Linux** — corro **Arch Linux con Hyprland** como daily driver.
 - 🌱 Aprendiendo continuamente y construyendo proyectos para practicar.
-- ⚡ Filosofía: 
+- ⚡ Filosofía: la lógica vive en el backend, el cliente solo muestra y consume.
 
 ---
 
@@ -75,7 +77,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaqovrs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaqovrs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaqovrs&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
