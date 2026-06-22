@@ -97,5 +97,5 @@
 </p>
 
 <p align="center">
-  <i>"La lógica vive en el backend; el cliente solo muestra y consume." ⚡</i>
+  <i>"La sencillez es la máxima sofisticación" ⚡</i>
 </p>
